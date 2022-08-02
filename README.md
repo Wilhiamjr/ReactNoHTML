@@ -1,2 +1,4 @@
 # ReactNoHTML
-Executando React no Html 
+Executando React no Html
+
+Só Baixar e abri no navegador.
